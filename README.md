@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aga353511yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aga353511yash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash aggrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash aggrawal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-aggrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash aggrawal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22198669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22198669" height="30" width="40" /></a>
 <a href="https://instagram.com/yash__agrwl6557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash__agrwl6557" height="30" width="40" /></a>
 </p>
